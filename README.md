@@ -31,6 +31,8 @@ Analyze car sales data and build an interactive Power BI dashboard to monitor pe
 -	Salesperson Performance Tracking
 -	Interactive Slicers and Filters
 
+## Dashboard Preview
+![Dashboard](https://github.com/KushalDhurve/car-sales-dashboard-analysis-powerbi/blob/main/(1)%20Dashboard_Overview.png)
 ## What I Learned
 -	Data Cleaning & Transformation
 -	DAX Calculations
